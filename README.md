@@ -1,4 +1,4 @@
- Recomendador de Bebidas en Prolog ☕🍋
+ Recomendador de Bebidas en Prolog ☕🍋  Miguel Angel Banteurt Blanco 
 
 Este es un sistema experto básico implementado en Prolog que recomienda una bebida adecuada según:
 - La hora del día (mañana, tarde o noche)
@@ -17,3 +17,7 @@ Ideal como ejercicio introductorio a la programación lógica y los sistemas bas
 2. Abre SWI-Prolog y carga el archivo:
    ```prolog
    ?- [recomendador_bebidas].
+
+   🎥 Demostración
+
+![Demo](demo.mp4)
