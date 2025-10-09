@@ -35,7 +35,7 @@ Este Proyecto demuestra:
 # 📚 **Documentación y Demostración**
 
 - **Notebook completo en Google Colab**:  
- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1uJtk4KsL4n20_XVaCQY4jlM5L4-qq8vW?usp=sharing)
+ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12AHJZJF7ahsq3VxoDzywn7qlpYOSZsIm?usp=sharing)
 
 - **Video de demostración**:  
   [Ver video](demo.mp4)
