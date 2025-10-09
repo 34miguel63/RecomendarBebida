@@ -1,6 +1,6 @@
- Recomendador de Bebidas en Prolog ☕🍋  
+# Recomendador de Bebidas para mejorar Tú salud  ☕🍋  
 
-Este es un sistema experto básico implementado en Prolog que recomienda una bebida adecuada según:
+Este es un sistema experto básico implementado en Prolog que recomienda una bebida adecuada para mejorar la salud según:
 - La hora del día (mañana, tarde o noche)
 - El clima (caluroso o frío)
 
@@ -9,16 +9,16 @@ Ideal como ejercicio introductorio a la programación lógica y los sistemas bas
          📁 Archivos del proyecto
 
 - `RecomendarBebida.pl`: Código fuente del sistema en Prolog.
-
- ▶️ Cómo ejecutar
+---
+# ▶️ Cómo ejecutar
 1. Instala SWI-Prolog (si no lo tienes):  
    🌐 [https://www.swi-prolog.org/](https://www.swi-prolog.org/)
 
 2. Abre SWI-Prolog y carga el archivo:
    ```prolog
    ?- [recomendador_bebidas].
-
-Logica del Sistema:
+---
+# Logica del Sistema:
 Hora,Clima,Recomendación
 6–11,Calido,Jugo de naranja fresco
 6–11,Frío,Café caliente
@@ -26,12 +26,19 @@ Hora,Clima,Recomendación
 12–18,Frío,Té caliente
 19–23 / 0–5,Calido,Agua natural
 19–23 / 0–5,Frío,Leche tibia con miel
-
+---
 Este Proyecto demuestra: 
 . Uso de hechos y reglas en Prolog
 . Patrones de inferencia simples
 . Como modelar deciciones del mundo real con Logica 
+---
+# 📚 **Documentación y Demostración**
 
-   🎥 Demostración
-
-![Demo](demo.mp4)
+- **Notebook completo en Google Colab**:  
+  [Ver notebook interactivo](https://github.com/34miguel63/RecomendarBebida/blob/main/Copy_of_Prolog_Diagrama.ipynb)
+docs: añadir sección de demostración con botón Open in Colab
+- **Video de demostración**:  
+  [Ver video](demo.mp4)
+---
+👨‍💻 Autor
+Miguel A. Banteurt Blanco - Proyecto desarrollado como parte del curso de Inteligencia Artificial
