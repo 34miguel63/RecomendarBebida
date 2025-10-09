@@ -36,9 +36,10 @@ Este Proyecto demuestra:
 
 - **Notebook completo en Google Colab**:  
   [Ver notebook interactivo](https://github.com/34miguel63/RecomendarBebida/blob/main/Copy_of_Prolog_Diagrama.ipynb)
-docs: añadir sección de demostración con botón Open in Colab
+
 - **Video de demostración**:  
   [Ver video](demo.mp4)
 ---
 👨‍💻 Autor
 Miguel A. Banteurt Blanco - Proyecto desarrollado como parte del curso de Inteligencia Artificial
+docs: añadir sección de demostración con botón Open in Colab
