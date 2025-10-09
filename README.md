@@ -42,4 +42,4 @@ Este Proyecto demuestra:
 ---
 👨‍💻 Autor
 Miguel A. Banteurt Blanco - Proyecto desarrollado como parte del curso de Inteligencia Artificial
-docs: añadir sección de demostración con botón Open in Colab
+
