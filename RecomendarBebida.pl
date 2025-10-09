@@ -8,8 +8,8 @@ tarde(Hora)  :- Hora >= 12, Hora =< 18.
 noche(Hora)  :- (Hora >= 19, Hora =< 23) ; (Hora >= 0, Hora =< 5).
 
 % Hechos: tipos de clima
-clima_calido.
-clima_frio.
+clima(calido).
+clima(frio).
 
 % Reglas de recomendación
 recomendar_bebida(Hora, Clima, Bebida) :-
