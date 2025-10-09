@@ -35,7 +35,7 @@ Este Proyecto demuestra:
 # 📚 **Documentación y Demostración**
 
 - **Notebook completo en Google Colab**:  
-  [Ver notebook interactivo](https://github.com/34miguel63/RecomendarBebida/blob/main/Copy_of_Prolog_Diagrama.ipynb)
+ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1uJtk4KsL4n20_XVaCQY4jlM5L4-qq8vW?usp=sharing)
 
 - **Video de demostración**:  
   [Ver video](demo.mp4)
